@@ -1,4 +1,5 @@
 # domain-research
-I made an edit.
-Harro
+The color of your music:
+http://predominant.ly/dark-maroon 
+http://glitchbeam.com/
 Research for Web: Javascript
